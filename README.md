@@ -75,7 +75,6 @@ or
 quit
 
 📁 Project Structure
-.
 ├── main.py
 ├── sample_docs/
 │   └── uno_rules.pdf  (optional example)
