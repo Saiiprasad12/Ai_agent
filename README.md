@@ -63,14 +63,15 @@ Ask your questions!
 
 Your Question: What is a Wild Draw 4 card?
 
+💡 Example Questions
+
+• What is the main objective of Uno?
+• When can a Draw 2 card be played?
+• What does a Reverse card do?
 
 Exit anytime using:
-
 exit
-
-
 or
-
 quit
 
 📁 Project Structure
@@ -83,35 +84,5 @@ quit
 └── .gitignore
 
 
-💡 Example Questions
 
-• What is the main objective of Uno?
-• When can a Draw 2 card be played?
-• What does a Reverse card do?
 
-🛠 Troubleshooting
-Issue	Possible Fix
-Model fails to load	Check if Ollama is running: ollama serve
-PDF not found	Confirm correct file path
-Slow first-time response	Model is loading for the first run
-🗺 Roadmap
-
-• Support multiple PDFs
-• RAG UI using Streamlit
-• Chat history memory
-• GPU performance optimizations
-• Docker support for easy deployment
-
-🤝 Contributions
-
-Open to improvements. PRs welcome!
-
-📜 License
-
-MIT License. Use and modify freely.
-
-🙌 Credits
-
-• LangChain community
-• Ollama team
-• Uno card game creators (fun guaranteed)
